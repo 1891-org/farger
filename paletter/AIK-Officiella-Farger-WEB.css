@@ -1,0 +1,56 @@
+/*
+Titel: AIK:s officiella färger Web
+Version: 1.2.0
+Beskrivning: AIKs officiella färger för webb/RGB. Hämtat från AIK Brandbook 230130 2023
+Skapare: Christopher Anderton
+URL: https://1891.org
+Skapat: 2022-02-03
+Ändrat: 2024-06-10
+*/
+
+
+
+/*--------------------------------------------------------------
+AIK Svart
+--------------------------------------------------------------*/
+.AIK-Svart {
+	color: #000000; /* Textfärg */
+	background-color: #000000;	 /* Bakgrundfärg */
+}
+/*--------------------------------------------------------------
+AIK Mörkgrå
+--------------------------------------------------------------*/
+.AIK-Morkgra {
+	color: #333333; /* Textfärg */
+	background-color: #333333; /* Bakgrundfärg */
+}
+/*--------------------------------------------------------------
+AIK Mörkblå
+--------------------------------------------------------------*/
+.AIK-Morkbla {
+	color: #002944; /* Textfärg */ 
+	background-color: #002944;	 /* Bakgrundfärg */
+}
+/*--------------------------------------------------------------
+AIK Gul
+--------------------------------------------------------------*/
+.AIK-Gul {
+	color: #ffdd00; /* Textfärg */
+	background-color: #ffdd00;	 /* Bakgrundfärg */
+}
+/*--------------------------------------------------------------
+AIK Guld
+--------------------------------------------------------------*/
+.AIK-Guld {
+	color: #af9664; /* Textfärg */
+	background-color: #af9664;	 /* Bakgrundfärg */
+}
+
+
+/*--------------------------------------------------------------
+AIK Vit
+--------------------------------------------------------------*/
+.AIK-Vit {
+	color: #ffffff; /* Textfärg */
+	background-color: #ffffff;	 /* Bakgrundfärg */
+}

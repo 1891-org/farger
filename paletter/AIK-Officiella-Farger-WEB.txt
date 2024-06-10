@@ -1,0 +1,65 @@
+
+===================================
+AIK Officiella färger
+Hämtat från AIK Brandbook 2023
+v2.0 juni 2024
+===================================
+
+AIK Svart
+-----------------------------------
+RGB 0/0/0
+CMYK 0/0/0/100 alt
+Rich Black 30/30/30/100
+HEX #0000
+PMS Black C
+NCS 9000-N
+RAL 9005
+
+AIK Mörkgrå (detaljer mot svart)
+-----------------------------------
+CMYK 0/0/0/90
+RGB 51/51/51
+HEX #333333
+
+AIK Gul
+-----------------------------------
+RGB 255/221/0
+CMYK 0/10/100/0
+HEX #ffdd00
+PMS YELLOW C
+NCS 0580-Y
+RAL 1021
+
+AIK Vit
+-----------------------------------
+RGB 255/255/255
+CMYK 0/0/0/0
+HEX #ffffff
+PMS –
+NCS 500-N
+RAL 9003 (standardvit)
+
+
+AIK Mörkblå
+-----------------------------------
+RGB 0/41/68
+CMYK 100/20/0/75
+HEX #002944
+PMS 2767 C
+NCS 7020-R90B
+RAL 5011
+
+
+AIK Guld
+-----------------------------------
+RGB 175/150/100
+CMYK 0/15/55/40
+HEX #AF9664
+PMS 871C
+NCS 4020 Y (metall)
+RAL 1036
+
+
+AIK Guld (som bakgrund) 20%
+-----------------------------------
+
