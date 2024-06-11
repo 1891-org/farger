@@ -4,8 +4,7 @@
 
 
 
-
-Webbsida (kommande) med
+Dokument för för
 AIK:s officiella färger (2024- ) samt extrafärger från 1891.org (Christopher Anderton) som använts i affischer och andra AIK-relaterade projekt. Kommentarer, länkar och resurser längst ner. 
 
 ## A1. AIK:s officiella färger
@@ -55,8 +54,24 @@ AIK:s officiella färger (2024- ) samt extrafärger från 1891.org (Christopher 
 | Färg  | Färgmodell  | Färgvärde  | Info                                                                            
 | ---------- | ----------------- | ----- | ------------------------------------------------------------------------------------------ |
 | 1891 Ljus    			|  HEX |  #f5ecdb   | Webb och skärm. Baserad på AIK Guld |
-| 1891 Ljusgul      |    HEX        |     #f6e470         | Skärm och webb. Baserad på AIK Gul  |                                                                                   
-| 1891 Orange      	|   HEX       |    #f58149    | Skärm och webb. Baserad på AIK:s 2021 års målvaktströja   |                     
+| 1891 Ljusgul      |    HEX        |     #f6e470         | Skärm och webb. Baserad på AIK Gul  |                                      | 1891 Orange      	|   HEX       |    #f58149    | Skärm och webb. Baserad på AIK:s 2021 års målvaktströja   |         
+
+***
+
+## B1. Palettformat
+
+| Filändelse | Format | Info |
+|:--------|:-------|:------------|
+| .aco    | Adobe Color File | Adobe Photoshops äldre filformat för färgpaletter men som fortfarande används |
+| .ase    | Adobe Swatch Exchange | Palettformat som kan användas i de flesta Adobe-program. Kan innehålla fler paletter i en fil | 
+| .ai    | Adobe Illustrator Swatches| Färgpalett för Adobe Illustrator. .ase kan även användas |
+| .act    | Adobe Color Table | Fördefinerade färger som används i Adobe Photoshop |
+| .css    | Cascading Style Sheet | Stilmall för webb. Kan även importeras som färgpalett i Adobe Photoshop och en del andra program |
+| .clr    | Apple Color List| Färgpalett som importeras i macOS egna färgväljare |
+| .txt    | Plain Text| Textfil med färgvärden |
+
+
+***
 
 
 
