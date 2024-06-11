@@ -73,6 +73,9 @@ AIK:s officiella färger (2024- ) samt extrafärger från 1891.org (Christopher 
 
 ***
 
+## C1. Teknisk info
+[Mastering Adobe Color File Formats](https://medium.com/swlh/mastering-adobe-color-file-formats-d29e43fde8eb)
 
+[Complete Guide to Apple Color Lists](https://colorslurp.com/blog/a-complete-guide-to-clr-files-on-mac)
 
 
