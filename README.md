@@ -10,7 +10,7 @@ AIK:s officiella färger (2024- ) samt extrafärger från 1891.org (Christopher 
 ## A1. AIK:s officiella färger
 
 | Färg  | Färgmodell  | Färgvärde  | Info                                                                            
-| ---------- | ----------------- | ----- | ------------------------------------------------------------------------------------------ |
+| :-------- | :-------- | :-------- | :-------- |
 | AIK Svart    			|  HEX |  #000   | Webb och skärm |
 | AIK Svart      				|    RGB        |     0/0/0           | Skärm och webb  |                                                                                   
 | AIK Svart      				|   CMYK       |    0/0/0/100    | Tryck. Alternativ användning är Rich Black (nedan)     |                                                                                      
@@ -52,7 +52,7 @@ AIK:s officiella färger (2024- ) samt extrafärger från 1891.org (Christopher 
 ## A2. Extrafärger från 1891.org
 
 | Färg  | Färgmodell  | Färgvärde  | Info                                                                            
-| ---------- | ----------------- | ----- | ------------------------------------------------------------------------------------------ |
+| :-------- | :----------------- | :----- | :------------------------------------------------------------------------------------------ |
 | 1891 Ljus    			|  HEX |  #f5ecdb   | Webb och skärm. Baserad på AIK Guld |
 | 1891 Ljusgul      |    HEX        |     #f6e470         | Skärm och webb. Baserad på AIK Gul  |                                      | 1891 Orange      	|   HEX       |    #f58149    | Skärm och webb. Baserad på AIK:s 2021 års målvaktströja   |         
 
